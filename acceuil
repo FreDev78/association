@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+    <html lang="FR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AFP FRANCE HANDICAP </title>
+        <link rel="stylesheet" href="asset/style.css">
+    </head>
+    <body>
+        <!--header titre et image -->
+        <header>
+         <div>
+         <!--image d'acceuil-->
+         <img class="header_logo" src="asset/img/téléchargement.png" alt="logo">
+        <!--image logo-->
+         <img class="header_titre_image" src="asset/img/bureaux.jpg" alt="image">
+        </div>
+        </header>
+        <!--menu navigation -->
+        <nav>
+           <ul class="menu_nav">
+            <li class="menu_child">Donner</li>
+            <li class="menu_child">Adhérer</li>
+            <li class="menu_child">Donation</li>
+            <li class="menu_child">Mecenat</li>
+            <li class="menu_child">Boutique</li>
+           </ul>
+        </nav>
+        <!--contenu-->
+        <main id="main_contenu">
+            <section class="section">
+                <button class="section_button" >Faire une Don</button> 
+            </section>
+                <section class="section">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vitae, 
+                    illo provident error explicabo quis. Nihil esse odio velit error nisi fugiat? Fugit dolore, 
+                    iusto aliquid nesciunt asperiores sit excepturi.</section>
+                    <section class="section">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vitae, 
+                        illo provident error explicabo quis. Nihil esse odio velit error nisi fugiat? Fugit dolore, 
+                        iusto aliquid nesciunt asperiores sit excepturi.</section>
+                        <section class="section">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vitae, 
+                            illo provident error explicabo quis. Nihil esse odio velit error nisi fugiat? Fugit dolore, 
+                            iusto aliquid nesciunt asperiores sit excepturi.</section>
+          
+        </main>
+
+        <footer class="footer">
+            <div>
+                <ul>
+                    <li class="footer_child">Contact</li>
+                    <li class="footer_child">Presse</li>
+                    <li class="footer_child">Mention Légale</li>
+                    <li class="footer_child">Plan du site</li>
+                    <li class="footer_child">Recrutement</li>
+                </ul>
+            </div>    
+        </footer>
+    </body>
+    </html>
